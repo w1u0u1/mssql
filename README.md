@@ -2,7 +2,7 @@
 mssql client
 
 # basic
-vs2019 + net3.5
+vs2019 + net3.5 + c#
 
 # usage
 mssql.exe connectString [queryString [logFile]]  
